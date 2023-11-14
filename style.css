@@ -5,10 +5,12 @@
 
 html {
   box-sizing: border-box;
+  font-family:"Lobster",sans-serif;
+  color:gold;
 }
 
 .container {
-  background-color:maroon
+  background-color:maroon;
   display: flex;
   flex-direction: column;
   align-items: center;
